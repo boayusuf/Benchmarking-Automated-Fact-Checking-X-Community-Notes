@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+matplotlib-venn
+seaborn
+openpyxl
+tqdm
+langdetect
+pydantic
+python-dotenv
+requests
+openai
+groq
+anthropic
+google-genai

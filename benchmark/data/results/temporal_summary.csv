@@ -1,0 +1,7 @@
+system,era,n,agreement
+A_gpt4o,pre-cutoff,116,0.8017241379310345
+A_gpt4o,post-cutoff,619,0.8481421647819063
+B_gpt4o_tavily,pre-cutoff,134,0.7910447761194029
+B_gpt4o_tavily,post-cutoff,723,0.7344398340248963
+C_google_fc,pre-cutoff,62,0.9516129032258065
+C_google_fc,post-cutoff,195,0.8666666666666667

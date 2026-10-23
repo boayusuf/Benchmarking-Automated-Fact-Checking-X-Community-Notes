@@ -9,5 +9,5 @@ venv/
 *.log
 
 # Local data — DB plus offline benchmark CSV (size + copyright)
-data/
-data/cn_dataset_5469.csv
+/data/
+/data/cn_dataset_5469.csv

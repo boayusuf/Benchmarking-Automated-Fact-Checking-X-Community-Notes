@@ -1,0 +1,3 @@
+noteId,tweetId,category,cn_verdict,extracted_claim,gpt4o_verdict,tavily_gpt4o_verdict,google_verdict,filtered_rag_verdict,llama_verdict
+1771328139328917680,1770984065878868478,HEALTH,MISLEADING,The claim that the World Health Organization finds bacon as harmful as cigarettes is inaccurate and misleading.,TRUE,TRUE,TRUE,TRUE,TRUE
+1787084650889822623,1787052569652552047,SCIENTIFIC,MISLEADING,Kiribati is the only country to be present in all hemispheres.,TRUE,TRUE,TRUE,TRUE,TRUE
